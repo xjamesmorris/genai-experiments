@@ -1,0 +1,3 @@
+[submodule "pskreporter-tool"]
+	path = pskreporter-tool
+	url = ../pskreporter-tool
